@@ -40,6 +40,7 @@ public class Lab6 {
         System.out.println(str + tab_space + str);
         System.out.println(str + back_space);
         System.out.println(str);
+        System.out.println(a);
         System.out.println(bool);
         System.out.println(null_val);
 
