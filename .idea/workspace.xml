@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3878d06-0310-4bb8-bf59-e090494b09f6" name="Changes" comment="Files">
+    <list default="true" id="a3878d06-0310-4bb8-bf59-e090494b09f6" name="Changes" comment="13 11 24">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_101024/Lab6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_041024/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_091024/Lab5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +50,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab5.executor": "Run",
+    "Application.Lab6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/tirup/IdeaProjects/ATB9xJavaProgram/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab6">
     <configuration name="Lab5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_091024.Lab5" />
       <module name="ATB9xJavaProgram" />
@@ -70,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_101024.Lab6" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_101024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab6" />
         <item itemvalue="Application.Lab5" />
       </list>
     </recent_temporary>
@@ -109,12 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731251991391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="13 11 24">
+      <option name="closed" value="true" />
+      <created>1731466071766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731466071766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files" />
+    <MESSAGE value="13 11 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 11 24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
